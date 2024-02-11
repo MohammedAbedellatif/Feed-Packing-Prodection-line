@@ -1,0 +1,22 @@
+# Writing all output to: C:\Users\hp\Desktop\ABOAMER_CODE\ABOAMERProject.log
+Warning reading file on line 692!
+Undefined pin id for KEYPAD-4
+Warning reading file on line 782!
+Undefined pin id for KEYPAD-2
+Warning reading file on line 791!
+Undefined pin id for KEYPAD-3
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+Nets shorting at pin
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
